@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 456" aria-hidden="true" role="img">
+  <!-- Circular orbit elements -->
+  <ellipse cx="256" cy="228" rx="84" ry="32" fill="none" stroke="#2196F3" stroke-width="12" transform="rotate(30 256 228)"/>
+  <ellipse cx="256" cy="228" rx="84" ry="32" fill="none" stroke="#2196F3" stroke-width="12" transform="rotate(150 256 228)"/>
+  
+  <!-- Checkmark symbol in center -->
+  <circle cx="256" cy="228" r="52" fill="#2196F3"/>
+  <path d="M232 228 L248 244 L284 208" fill="none" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Task dots at orbit intersections -->
+  <circle cx="256" cy="128" r="16" fill="#2196F3"/>
+  <circle cx="356" cy="278" r="16" fill="#2196F3"/>
+  <circle cx="156" cy="278" r="16" fill="#2196F3"/>
+</svg>
