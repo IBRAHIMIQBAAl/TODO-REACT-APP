@@ -15,7 +15,7 @@ export default function Header() {
         <header>
             <div className="logo">
                 <img src={img} alt="logo" />
-                <h1>TaskList</h1>
+                <h1>TASKEFY</h1>
             </div>
             
             <div className="themeSelector">
